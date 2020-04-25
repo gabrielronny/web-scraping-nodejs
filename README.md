@@ -10,11 +10,11 @@ de uma loja de varejo e pega a descrição do produto e a sua url da imagem e sa
 
 ### Como utilizar?
 
-para instalar as dependencias do projeto basta utilizar:
+1º você tem que instalar as dependencias do projeto, então basta utilizar:
 ```
 npm install
 ```
-Para iniciar o projeto:
+2º Para iniciar o projeto utilize:
 ```
 npm start
 ```

@@ -1,0 +1,27 @@
+{
+  "name": "web-scraping-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielronny/web-scraping-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielronny/web-scraping-nodejs/issues"
+  },
+  "homepage": "https://github.com/gabrielronny/web-scraping-nodejs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "node-horseman": "^3.3.0",
+    "phantomjs": "^2.1.7"
+  }
+}

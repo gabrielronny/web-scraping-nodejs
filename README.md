@@ -21,5 +21,11 @@ npm start
 
 ### Tecnologias utilizadas
 
-* [Nodejs](https://nodejs.org/) - The web framework used
-* [Phantomjs](http://phantomjs.org/) - Dependency Management
+* [Nodejs](https://nodejs.org/)
+* [Phantomjs](http://phantomjs.org/)
+
+### Desenvolvido por Gabriel Ronny
+
+* [Linkedin](https://www.linkedin.com/in/gabrielronny/)
+* [Github](https://github.com/gabrielronny)
+

@@ -19,7 +19,7 @@ npm install
 npm start
 ```
 
-### Tecnologias utilizadas
+### Tecnologias utilizadas:
 
 * [Nodejs](https://nodejs.org/)
 * [Phantomjs](http://phantomjs.org/)

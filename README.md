@@ -2,12 +2,19 @@
 
 > Web scraping é uma forma de extração de dados de sites da web
 
+### Como o scraping funciona?
+
+Bom ele é um 'robôzinho' que busca no html da página as informações
+que você deseja utilizar e no caso desse aqui ele busca as informações dos produtos
+de uma loja de varejo e pega a descrição do produto e a sua url da imagem e salva em um arquivo json.
+
 ### Como utilizar?
+
 para instalar as dependencias do projeto basta utilizar:
 ```
 npm install
 ```
-Para iniciar o projeto
+Para iniciar o projeto:
 ```
 npm start
 ```

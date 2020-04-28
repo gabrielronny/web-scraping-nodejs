@@ -36,7 +36,7 @@ function scraping() {
         return getdata()
         .then(function(newData) {
             finalData = finalData.concat(newData)
-            console.log(`Got ${finalData.length} items from ${finalData.length / 60} pages`)
+            console.log(`${finalData.length} itens de ${finalData.length / 60} páginas`)
 
             
             if(finalData.length >= 800) {

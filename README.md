@@ -27,5 +27,5 @@ npm start
 ### Desenvolvido por Gabriel Ronny
 
 * [Linkedin](https://www.linkedin.com/in/gabrielronny/)
-* [Github](https://github.com/gabrielronny)
+* gabrielronny123@hotmail.com
 
